@@ -3,7 +3,7 @@
 > Two-tower neural network · Faiss ANN · FastAPI · A/B testing · Streamlit
 
 **Live demo:** https://recomendation-system-j8h7htqreyqfmn23esbbkg.streamlit.app/
-**API docs:** [_add your Render URL here after deploying_ `/docs`](https://rec-engine-api-qtfm.onrender.com)
+**API docs:** (https://rec-engine-api-qtfm.onrender.com)
 
 See [README_DEPLOY.md](README_DEPLOY.md) for the full deployment guide.
 
