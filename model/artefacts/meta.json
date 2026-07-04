@@ -1,0 +1,7 @@
+{
+  "n_users": 2000,
+  "n_items": 5000,
+  "embed_dim": 64,
+  "hidden": 128,
+  "final_loss": 4.2005
+}
